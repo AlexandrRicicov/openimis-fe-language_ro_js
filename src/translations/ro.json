@@ -3181,6 +3181,7 @@
     "workerVoucher.worker": "Lucrător",
     "workerVoucher.workers": "Lucrători",
     "workerVoucher.worker.chfId": "IDNP",
+    "workerVoucher.worker.regularIdHeader": "Lucrător id - {regularId}",
     "workerVoucher.worker.assignedVouchers": "Voucherele acestui an",
     "workerVoucher.worker.warning.limit": "AVERTISMENT",
     "workerVoucher.worker.warning.limitReached": "Lucrătorul a atins numărul maxim de vouchere atribuite pentru acest an calendaristic, care este {limit}.",
